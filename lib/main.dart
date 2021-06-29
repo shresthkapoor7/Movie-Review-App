@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Movie Reviews',
       theme: ThemeData(
-        primarySwatch: Colors.indigo,
+        primarySwatch: Colors.red,
         scaffoldBackgroundColor: Colors.white,
       ),
       home: DashboardScreen(),
